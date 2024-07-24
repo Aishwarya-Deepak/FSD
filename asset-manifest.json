@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c64d4665.css",
+    "main.js": "/static/js/main.44ba5033.js",
+    "static/js/422.a8f87740.chunk.js": "/static/js/422.a8f87740.chunk.js",
+    "static/media/dental.jpg": "/static/media/dental.9d5443d35b66ae8d259d.jpg",
+    "static/media/caro2.jpg": "/static/media/caro2.135b54c500bc797d0a0f.jpg",
+    "static/media/caro3.jpg": "/static/media/caro3.88e8bdd3464d70f7c5b6.jpg",
+    "static/media/caro1.jpg": "/static/media/caro1.33dba00548cba112f87d.jpg",
+    "static/media/depression.jpg": "/static/media/depression.a29b1518c83df5414ebc.jpg",
+    "static/media/caro4.webp": "/static/media/caro4.3645202b609cc1f02b94.webp",
+    "static/media/womens.jpg": "/static/media/womens.ef041e4b008a387307ab.jpg",
+    "static/media/Fracture.jpg": "/static/media/Fracture.a29df0046391b640c6f5.jpg",
+    "static/media/diabet3.jpg": "/static/media/diabet3.ded503e87f645b4cf359.jpg",
+    "static/media/logo.png": "/static/media/logo.393c3ffea59bbbb0f4cf.png",
+    "static/media/derma1.jpg": "/static/media/derma1.b58584f4e397e3abfe0b.jpg",
+    "index.html": "/index.html",
+    "main.c64d4665.css.map": "/static/css/main.c64d4665.css.map",
+    "main.44ba5033.js.map": "/static/js/main.44ba5033.js.map",
+    "422.a8f87740.chunk.js.map": "/static/js/422.a8f87740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64d4665.css",
+    "static/js/main.44ba5033.js"
+  ]
+}
